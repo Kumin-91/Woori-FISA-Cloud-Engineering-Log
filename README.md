@@ -16,8 +16,9 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 
 ### 📝 Learning Journey Status
 
-* **Status: 🟢 In Progress (Dec 30, 2025 ~ )**  
-* **Update: ✅ Jan 04, 2026**  
+* **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
+* **Content Coverage: ✅ Organized up to Dec 31, 2025 (Java III)**  
+* **Last Updated: ☑️ Jan 04, 2026**  
 
 ### 🔥 Next Milestone
 
@@ -69,7 +70,7 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 | :----: | :--- | :---- |
 | 🟢 | Dec 30, 2025 | [Basic Syntax](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_I_Basic_Syntax.md) |  
 | 🟢 | Dec 30, 2025 | [Basics and Memory](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_II_Basics_and_Memory.md) |  
-| 🟠 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |  
+| 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |  
 
 ### [Infra System](./03_Lectures_Summary/02_Infra_System/)  
 
