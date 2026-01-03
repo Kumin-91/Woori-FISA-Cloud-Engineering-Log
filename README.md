@@ -1,15 +1,14 @@
-## Disclaimer / ご注意
+# 📖 Woori-FISA Cloud Engineering Archive
 
-```
+![Woori FISA](./Images/Woori_FISA_Logo.png)
+
+```Plain Text
+Disclaimer / ご注意
+
 EN: The English and Japanese translations in this document were generated using machine translation. In case of any discrepancies, the original Korean version shall prevail.
 
 JP: 本ドキュメントの英語および日本語表記には機械翻訳を使用しています。解釈に相違がある場合は、韓国語の原文を優先します。  
 ```
-
-&nbsp;
-
-![Woori FISA](./Images/Woori_FISA_Logo.png)
-# 📖 Woori-FISA Cloud Engineering Archive
 
 **우리 FISA 클라우드 엔지니어링 과정 6기 학습 기록**  
 **EN: Learning Log of Woori FISA Cloud Engineering Course, 6th Cohort**  
@@ -18,13 +17,12 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 ### 📝 Learning Journey Status
 
 * **Status: 🟢 In Progress (Dec 30, 2025 ~ )**  
-* **Update: ✅ Jan 02, 2026**  
+* **Update: ✅ Jan 04, 2026**  
 
 ### 🔥 Next Milestone
 
-* [ ] JAVA 개발 환경 구축기 - Windows 파트 보강
-
-&nbsp;
+* [ ] [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) - Windows 파트 보강
+* [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) - 작성 및 고려점 정리
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -56,10 +54,8 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 **EN: Troubleshooting and Problem-Solving Log**  
 **JP: トラブルシューティングおよび問題解決の記録**  
 
-### [TBD](./02_Troubleshooting/)  
 | Status | Date | Title | 
 | :----: | :--- | :---- |
-| 🔴 | TBD | TBD |
 
 ## 3. Curriculum Summary
 
@@ -71,19 +67,19 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 
 | Status | Date | Title | 
 | :----: | :--- | :---- |
-| 🟠 | Dec 30, 2025 | [JAVA Basic I](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_JAVA_Basic_I.md) |  
+| 🟢 | Dec 30, 2025 | [Basic Syntax](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_I_Basic_Syntax.md) |  
+| 🟢 | Dec 30, 2025 | [Basics and Memory](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_II_Basics_and_Memory.md) |  
+| 🟠 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |  
 
 ### [Infra System](./03_Lectures_Summary/02_Infra_System/)  
 
 | Status | Date | Title | 
 | :----: | :--- | :---- |
-| 🔴 | TBD | TBD |
 
 ### [Cloud Engineering](./03_Lectures_Summary/03_Cloud_Engineering/)  
 
 | Status | Date | Title | 
 | :----: | :--- | :---- |
-| 🔴 | TBD | TBD |
 
 ## 4. Projects
 
