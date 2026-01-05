@@ -97,5 +97,4 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🔴 | Dec 31, 2025 | [Log4j 활용한 간단한 JAVA 프로그램](./04_Projects/[2025.12.31]_log4j_mini_project/) |
 | 🔴 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
