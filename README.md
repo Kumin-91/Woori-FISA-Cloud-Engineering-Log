@@ -17,8 +17,8 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 02, 2026 (Linux I & II and Docker I)**  
-* **Last Updated: ☑️ Jan 04, 2026**  
+* **Content Coverage: ✅ Organized up to Jan 02, 2026 (Java IV)**  
+* **Last Updated: ☑️ Jan 05, 2026**  
 
 ### 🔥 Next Milestone
 
@@ -71,8 +71,9 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Dec 30, 2025 | [Basic Syntax](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_I_Basic_Syntax.md) |  
-| 🟢 | Dec 30, 2025 | [Basics and Memory](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_II_Basics_and_Memory.md) |  
-| 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |  
+| 🟢 | Dec 30, 2025 | [Basics and Memory](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_II_Basics_and_Memory.md) |
+| 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |
+| 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
