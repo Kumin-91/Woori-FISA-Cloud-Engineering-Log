@@ -17,14 +17,14 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 02, 2026 (Java IV)**  
+* **Content Coverage: ✅ Organized up to Jan 05, 2026 (Java IV, Linux III)**  
 * **Last Updated: ☑️ Jan 05, 2026**  
 
 ### 🔥 Next Milestone
 
 * [ ] [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) - Windows 파트 보강
 * [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) - 작성 및 고려점 정리
-* [ ] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) - 내용 작성
+* [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) - 내용 작성
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -81,6 +81,7 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 | :---: | :--- | :--- |
 | 🟢 | Jan 02, 2026 | [JAR Packaging and Execution](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.02]_I_JRE.md) |
 | 🟢 | Jan 02, 2026 | [Install MySQL](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.02]_II_MySQL.md) |
+| 🟢 | Jan 05, 2026 | [Visual Studio Code로 Linux 서버 연결](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.05]_III_VSCode.md) |
 
 ### [Cloud Engineering - Docker](./03_Lectures_Summary/03_Cloud_Engineering/)  
 
