@@ -2,13 +2,11 @@
 
 ![Woori FISA](./Images/Woori_FISA_Logo.png)
 
-```Plain Text
-Disclaimer / ご注意
+**Disclaimer / ご注意**
 
-EN: The English and Japanese translations in this document were generated using machine translation. In case of any discrepancies, the original Korean version shall prevail.
+    EN: The English and Japanese translations in this document were generated using machine translation. In case of any discrepancies, the original Korean version shall prevail.
 
-JP: 本ドキュメントの英語および日本語表記には機械翻訳を使用しています。解釈に相違がある場合は、韓国語の原文を優先します。  
-```
+    JP: 本ドキュメントの英語および日本語表記には機械翻訳を使用しています。解釈に相違がある場合は、韓国語の原文を優先します。  
 
 **우리 FISA 클라우드 엔지니어링 과정 6기 학습 기록**  
 **EN: Learning Log of Woori FISA Cloud Engineering Course, 6th Cohort**  
@@ -17,8 +15,8 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 05, 2026 (Java IV, Linux III)**  
-* **Last Updated: ☑️ Jan 06, 2026**  
+* **Content Coverage: ✅ Organized up to Jan 06, 2026 (Java V)**  
+* **Last Updated: ☑️ Jan 07, 2026**  
 
 ### 🔥 Next Milestone
 
@@ -74,6 +72,7 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 | 🟢 | Dec 30, 2025 | [Basics and Memory](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.30]_II_Basics_and_Memory.md) |
 | 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
+| 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
