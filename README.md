@@ -18,7 +18,7 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
 * **Content Coverage: ✅ Organized up to Jan 05, 2026 (Java IV, Linux III)**  
-* **Last Updated: ☑️ Jan 05, 2026**  
+* **Last Updated: ☑️ Jan 06, 2026**  
 
 ### 🔥 Next Milestone
 
@@ -97,4 +97,4 @@ JP: 本ドキュメントの英語および日本語表記には機械翻訳を�
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🔴 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
+| 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
