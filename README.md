@@ -14,7 +14,7 @@
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 06, 2026 (Java V)**  
+* **Content Coverage: ✅ Organized up to Jan 07, 2026 (Java VI)**  
 * **Last Updated: ☑️ Jan 07, 2026**  
 
 ### 🔥 Next Milestone
@@ -72,6 +72,7 @@
 | 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
+| 🟢 | Jan07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
@@ -96,3 +97,4 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
+| 🟢 | Jan 07, 2026 | [중간 연산 과다 사용 예제](./04_Projects/[2026.01.07]_Overusing_Intermediate_Operations/README.md) |
