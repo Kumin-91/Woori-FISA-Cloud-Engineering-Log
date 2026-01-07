@@ -4,9 +4,8 @@
 
 **Disclaimer / ご注意**
 
-    EN: The English and Japanese translations in this document were generated using machine translation. In case of any discrepancies, the original Korean version shall prevail.
-
-    JP: 本ドキュメントの英語および日本語表記には機械翻訳を使用しています。解釈に相違がある場合は、韓国語の原文を優先します。  
+> EN: The English and Japanese translations in this document were generated using machine translation. In case of any discrepancies, the original Korean version shall prevail.  
+> JP: 本ドキュメントの英語および日本語表記には機械翻訳を使用しています。解釈に相違がある場合は、韓国語の原文を優先します。  
 
 **우리 FISA 클라우드 엔지니어링 과정 6기 학습 기록**  
 **EN: Learning Log of Woori FISA Cloud Engineering Course, 6th Cohort**  
