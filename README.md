@@ -104,4 +104,4 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
-| 🟢 | Jan 07, 2026 | [중간 연산 과다 사용 예제](./04_Projects/[2026.01.07]_Overusing_Intermediate_Operations/README.md) |
+| 🟠 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
