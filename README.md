@@ -72,7 +72,14 @@
 | 🟢 | Dec 31, 2025 | [Static OOP and Patterns](./03_Lectures_Summary/01_Web_Service/JAVA/[2025.12.31]_III_Static_OOP_and_Patterns.md) |
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
-| 🟢 | Jan07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
+| 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
+| 🔴 | Jan 08, 2026 | []() |
+
+### [Web Service - SQL](./03_Lectures_Summary/01_Web_Service/SQL/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🔴 | Jan 08, 2026 | []() |
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
