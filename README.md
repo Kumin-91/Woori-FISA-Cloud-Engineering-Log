@@ -14,8 +14,8 @@
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 07, 2026 (Java VI)**  
-* **Last Updated: ☑️ Jan 07, 2026**  
+* **Content Coverage: ✅ Organized up to Jan 08, 2026 (SQL I & Docker II)**  
+* **Last Updated: ☑️ Jan 08, 2026**  
 
 ### 🔥 Next Milestone
 
@@ -73,13 +73,12 @@
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
-| 🔴 | Jan 08, 2026 | []() |
 
 ### [Web Service - SQL](./03_Lectures_Summary/01_Web_Service/SQL/)  
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🔴 | Jan 08, 2026 | []() |
+| 🟢 | Jan 08, 2026 | [MySQL and Oracle DB Setup](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_I_MySQL_Oracle_Setup.md) |
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
@@ -94,6 +93,7 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 02, 2026 | [Docker Basics](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.02]_I_Docker_Basics.md) | 
+| 🟢 | Jan 08, 2026 | [Garbase Collection](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.08]_II_Garbage_Collection.md) |
 
 ## 4. Projects
 
