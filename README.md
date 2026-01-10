@@ -14,14 +14,13 @@
 ### 📝 Learning Journey Status
 
 * **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 08, 2026 (SQL I & Docker II)**  
-* **Last Updated: ☑️ Jan 08, 2026**  
+* **Content Coverage: ✅ Organized up to Jan 09, 2026 (SQL II to IV & JAVA VII)**  
+* **Last Updated: ☑️ Jan 10, 2026**  
 
 ### 🔥 Next Milestone
 
-* [ ] [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) - Windows 파트 보강
-* [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) - 작성 및 고려점 정리
-* [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) - 내용 작성
+* [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
+* [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -47,6 +46,8 @@
 | 🟢 | Dec 31, 2025 | [Lombok 설치 및 테스트](./01_Environment_Setup/[2025.12.31]_Lombok_Setup.md) |
 | 🔴 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
 
+<!-- 🟢 🟠 🔴 -->
+
 ## 2. Troubleshooting Log
 
 **문제 해결 및 트러블슈팅 기록**  
@@ -56,6 +57,8 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Dec 31, 2025 | [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) |
+
+<!-- 🟢 🟠 🔴 -->
 
 ## 3. Curriculum Summary
 
@@ -73,12 +76,21 @@
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
+| 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC)](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
+
+<!-- 🟢 🟠 🔴 -->
 
 ### [Web Service - SQL](./03_Lectures_Summary/01_Web_Service/SQL/)  
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 08, 2026 | [MySQL and Oracle DB Setup](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_I_MySQL_Oracle_Setup.md) |
+| 🟢 | Jan 08, 2026 | [SELECT Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_II_SELECT.md) |
+| 🟢 | Jan 09, 2026 | [WHERE Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_III_WHERE.md) |
+| 🟢 | Jan 09, 2026 | [DML Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_IV_DML.md) |
+| 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
+
+<!-- 🟢 🟠 🔴 -->
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
@@ -88,12 +100,16 @@
 | 🟢 | Jan 02, 2026 | [Install MySQL](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.02]_II_MySQL.md) |
 | 🟢 | Jan 05, 2026 | [Visual Studio Code로 Linux 서버 연결](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.05]_III_VSCode.md) |
 
+<!-- 🟢 🟠 🔴 -->
+
 ### [Cloud Engineering - Docker](./03_Lectures_Summary/03_Cloud_Engineering/)  
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 02, 2026 | [Docker Basics](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.02]_I_Docker_Basics.md) | 
-| 🟢 | Jan 08, 2026 | [Garbase Collection](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.08]_II_Garbage_Collection.md) |
+| 🟢 | Jan 08, 2026 | [Garbage Collection](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.08]_II_Garbage_Collection.md) |
+
+<!-- 🟢 🟠 🔴 -->
 
 ## 4. Projects
 
@@ -104,4 +120,6 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
-| 🟠 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
+| 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
+
+<!-- 🟢 🟠 🔴 -->
