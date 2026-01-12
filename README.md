@@ -76,7 +76,8 @@
 | 🟢 | Jan 05, 2026 | [MVC, Builder Pattern and Final Keyword](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.05]_IV_Pattern_and_Final_Keyword.md) |
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
-| 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC)](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
+| 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC) - Part 1](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
+| 🔴 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -89,6 +90,7 @@
 | 🟢 | Jan 09, 2026 | [WHERE Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_III_WHERE.md) |
 | 🟢 | Jan 09, 2026 | [DML Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_IV_DML.md) |
 | 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
+| 🔴 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
 
 <!-- 🟢 🟠 🔴 -->
 
