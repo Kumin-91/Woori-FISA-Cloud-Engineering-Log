@@ -13,14 +13,18 @@
 
 ### 📝 Learning Journey Status
 
-* **Course Status: 🟢 In Progress (Since Dec 30, 2025)**  
-* **Content Coverage: ✅ Organized up to Jan 09, 2026 (SQL II to IV & JAVA VII)**  
-* **Last Updated: ☑️ Jan 10, 2026**  
+```Plain text
+Course Status    : 🟢 In Progress (Since Dec 30, 2025)
+Content Coverage : ✅ Jan 13, 2026 (SQL VI-VII)
+Upcoming Content : 🔜 Jan 13, 2026 (SQL VIII-IX)
+Last Updated     : ☑️ Jan 13, 2026
+```
 
 ### 🔥 Next Milestone
 
 * [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
 * [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
+* [ ] [JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -57,6 +61,7 @@
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Dec 31, 2025 | [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) |
+| 🟢 | Jan 13, 2026 | [최신 Oracle DB 문법 비교](./02_Troubleshooting/[2026.01.13]_Newer_Oracle.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -90,7 +95,10 @@
 | 🟢 | Jan 09, 2026 | [WHERE Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_III_WHERE.md) |
 | 🟢 | Jan 09, 2026 | [DML Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_IV_DML.md) |
 | 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
-| 🔴 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
+| 🟢 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
+| 🟢 | Jan 13, 2026 | [SELECT Group Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VII_SELECT_Group_Function.md) |
+| 🔴 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
+| 🔴 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
