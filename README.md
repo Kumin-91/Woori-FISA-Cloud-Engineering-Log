@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 13, 2026 (SQL VI-VII)
-Upcoming Content : 🔜 Jan 13, 2026 (SQL VIII-IX)
-Last Updated     : ☑️ Jan 13, 2026
+Content Coverage : ✅ Jan 13, 2026 (SQL IX)
+Upcoming Content : 🔜 Jan 13, 2026 (ELK I), Jan 14, 2026 (ELK II)
+Last Updated     : ☑️ Jan 14, 2026
 ```
 
 ### 🔥 Next Milestone
