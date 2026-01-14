@@ -15,8 +15,8 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 13, 2026 (SQL IX)
-Upcoming Content : 🔜 Jan 13, 2026 (ELK I), Jan 14, 2026 (ELK II)
+Content Coverage : ✅ Jan 14, 2026 (ELK II)
+Upcoming Content : 🔜 Jan 13, 2026 (Elasticsearch + Kibana Setup) | Jan 14, 2026 (ELK I)
 Last Updated     : ☑️ Jan 14, 2026
 ```
 
@@ -25,6 +25,8 @@ Last Updated     : ☑️ Jan 14, 2026
 * [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
 * [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
 * [ ] [JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
+* [ ] [Elasticsearch + Kibana 설치 - macOS](./01_Environment_Setup/[2026.01.13]_ES_Kibana.md)
+* [ ] [ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -49,6 +51,7 @@ Last Updated     : ☑️ Jan 14, 2026
 | 🟢 | Dec 30, 2025 | [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) |
 | 🟢 | Dec 31, 2025 | [Lombok 설치 및 테스트](./01_Environment_Setup/[2025.12.31]_Lombok_Setup.md) |
 | 🔴 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
+| 🔴 | Jan 13, 2026 | [Elasticsearch + Kibana 설치 - macOS](./01_Environment_Setup/[2026.01.13]_ES_Kibana.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -98,7 +101,16 @@ Last Updated     : ☑️ Jan 14, 2026
 | 🟢 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
 | 🟢 | Jan 13, 2026 | [SELECT Group Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VII_SELECT_Group_Function.md) |
 | 🟢 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
-| 🔴 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
+| 🟢 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
+
+<!-- 🟢 🟠 🔴 -->
+
+### [Web Service - ELK](./03_Lectures_Summary/01_Web_Service/ELK/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🟠 | Jan 14, 2026 | [ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md) |
+| 🟢 | Jan 14, 2026 | [Kibana를 활용한 Elasticsearch 데이터 적재 및 시각화](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_II_Kibana_ES_Viz.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
