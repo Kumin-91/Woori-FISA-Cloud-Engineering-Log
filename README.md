@@ -97,7 +97,7 @@ Last Updated     : ☑️ Jan 13, 2026
 | 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
 | 🟢 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
 | 🟢 | Jan 13, 2026 | [SELECT Group Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VII_SELECT_Group_Function.md) |
-| 🔴 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
+| 🟢 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
 | 🔴 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
 
 <!-- 🟢 🟠 🔴 -->
