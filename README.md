@@ -15,18 +15,17 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 14, 2026 (ELK II)
-Upcoming Content : 🔜 Jan 13, 2026 (Elasticsearch + Kibana Setup) | Jan 14, 2026 (ELK I)
-Last Updated     : ☑️ Jan 14, 2026
+Content Coverage : ✅ Jan 16, 2026 (ELK III)
+Upcoming Content : 🔜 
+Last Updated     : ☑️ Jan 16, 2026
 ```
 
 ### 🔥 Next Milestone
 
-* [ ] [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
-* [X] [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
-* [ ] [JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
-* [ ] [Elasticsearch + Kibana 설치 - macOS](./01_Environment_Setup/[2026.01.13]_ES_Kibana.md)
-* [ ] [ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
+* [X] [Dec 31, 2025 - Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
+* [X] [Jan 02, 2026 - Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
+* [ ] [Jan 12, 2026 - JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
+* [ ] [Jan 14, 2026 - ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -50,8 +49,9 @@ Last Updated     : ☑️ Jan 14, 2026
 | :---: | :--- | :--- |
 | 🟢 | Dec 30, 2025 | [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) |
 | 🟢 | Dec 31, 2025 | [Lombok 설치 및 테스트](./01_Environment_Setup/[2025.12.31]_Lombok_Setup.md) |
-| 🔴 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
-| 🔴 | Jan 13, 2026 | [Elasticsearch + Kibana 설치 - macOS](./01_Environment_Setup/[2026.01.13]_ES_Kibana.md) |
+| 🟢 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
+
+**[Linux Software Index](./01_Environment_Setup/_Linux_Software_Index.md)**
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -85,7 +85,7 @@ Last Updated     : ☑️ Jan 14, 2026
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
 | 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC) - Part 1](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
-| 🔴 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
+| 🟠 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -111,6 +111,7 @@ Last Updated     : ☑️ Jan 14, 2026
 | :---: | :--- | :--- |
 | 🟠 | Jan 14, 2026 | [ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md) |
 | 🟢 | Jan 14, 2026 | [Kibana를 활용한 Elasticsearch 데이터 적재 및 시각화](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_II_Kibana_ES_Viz.md) |
+| 🟢 | Jan 16, 2026 | [Filebeat와 Logstash를 활용한 데이터 자동 포맷팅 및 적재](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.16]_III_Filebeat_Logstash_Pipeline.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -143,5 +144,6 @@ Last Updated     : ☑️ Jan 14, 2026
 | :---: | :--- | :--- |
 | 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
 | 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
+| 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
 
 <!-- 🟢 🟠 🔴 -->
