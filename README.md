@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 16, 2026 (ELK III)
+Content Coverage : ✅ Jan 19, 2026 (Tomcat 설치)
 Upcoming Content : 🔜 
-Last Updated     : ☑️ Jan 16, 2026
+Last Updated     : ☑️ Jan 19, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -50,6 +50,7 @@ Last Updated     : ☑️ Jan 16, 2026
 | 🟢 | Dec 30, 2025 | [JAVA 개발 환경 구축기](./01_Environment_Setup/[2025.12.30]_JAVA_Env_Setup.md) |
 | 🟢 | Dec 31, 2025 | [Lombok 설치 및 테스트](./01_Environment_Setup/[2025.12.31]_Lombok_Setup.md) |
 | 🟢 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
+| 🟢 | Jan 19, 2026 | [Tomcat 설치 및 구동 환경 설정](./01_Environment_Setup/[2026.01.19]_Tomcat.md) |
 
 **[Linux Software Index](./01_Environment_Setup/_Linux_Software_Index.md)**
 
