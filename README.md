@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 19, 2026 (Tomcat 설치)
-Upcoming Content : 🔜 
-Last Updated     : ☑️ Jan 19, 2026
+Content Coverage : ✅ Jan 19, 2026 (Web_Compo Day01)
+Upcoming Content : 🔜 Web Components Day 02-03
+Last Updated     : ☑️ Jan 21, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -53,6 +53,7 @@ Last Updated     : ☑️ Jan 19, 2026
 | 🟢 | Jan 19, 2026 | [Tomcat 설치 및 구동 환경 설정](./01_Environment_Setup/[2026.01.19]_Tomcat.md) |
 
 **[Linux Software Index](./01_Environment_Setup/_Linux_Software_Index.md)**
+**[macOS Software Index](./01_Environment_Setup/_macOS_Software_Index.md)**
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -87,6 +88,9 @@ Last Updated     : ☑️ Jan 19, 2026
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
 | 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC) - Part 1](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
 | 🟠 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
+| 🟢 | Jan 19, 2026 | [Web Components Day 01](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.19]_Web_Components_Day_01.md) |
+| 🟠 | Jan 20, 2026 | [Web Components Day 02](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
+| 🔴 | Jan 21, 2026 | [Web Components Day 03](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -146,5 +150,6 @@ Last Updated     : ☑️ Jan 19, 2026
 | 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](./04_Projects/[2026.01.05]_MVC_log4j_mini_project/README.md) |
 | 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
 | 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
+| 🟠 | Jan 23, 2026 | [n8n 팀 과제 - 학습 큐레이터](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) |
 
 <!-- 🟢 🟠 🔴 -->
