@@ -15,8 +15,8 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 21, 2026 (Web Components Day03)
-Upcoming Content : 🔜 Web Components Day 04
+Content Coverage : ✅ Jan 22, 2026 (Web Components Day 04)
+Upcoming Content : 🔜 
 Last Updated     : ☑️ Jan 22, 2026
 ```
 
