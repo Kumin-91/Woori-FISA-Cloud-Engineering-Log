@@ -15,8 +15,8 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 20, 2026 (Web Components Day02)
-Upcoming Content : 🔜 Web Components Day 03
+Content Coverage : ✅ Jan 21, 2026 (Web Components Day03)
+Upcoming Content : 🔜 Web Components Day 04
 Last Updated     : ☑️ Jan 22, 2026
 ```
 
@@ -90,7 +90,7 @@ Last Updated     : ☑️ Jan 22, 2026
 | 🟠 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
 | 🟢 | Jan 19, 2026 | [Web Components Day 01](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.19]_Web_Components_Day_01.md) |
 | 🟢 | Jan 20, 2026 | [Web Components Day 02](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
-| 🟠 | Jan 21, 2026 | [Web Components Day 03](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
+| 🟢 | Jan 21, 2026 | [Web Components Day 03](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
 | 🔴 | Jan 22, 2026 | [Web Components Day 04](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
 
 <!-- 🟢 🟠 🔴 -->
