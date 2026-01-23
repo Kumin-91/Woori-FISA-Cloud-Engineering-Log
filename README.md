@@ -91,7 +91,7 @@ Last Updated     : ☑️ Jan 22, 2026
 | 🟢 | Jan 19, 2026 | [Web Components Day 01](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.19]_Web_Components_Day_01.md) |
 | 🟢 | Jan 20, 2026 | [Web Components Day 02](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
 | 🟢 | Jan 21, 2026 | [Web Components Day 03](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
-| 🔴 | Jan 22, 2026 | [Web Components Day 04](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
+| 🟢 | Jan 22, 2026 | [Web Components Day 04](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
