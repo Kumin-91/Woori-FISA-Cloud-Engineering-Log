@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 22, 2026 (Web Components Day 04)
-Upcoming Content : 🔜 
-Last Updated     : ☑️ Jan 22, 2026
+Content Coverage : ✅ Jan 27, 2026 (Web Components Day 05 - JS & AJAX)
+Upcoming Content : 🔜 Jan 28, 2026 (Web Components Day 06 - JPA)
+Last Updated     : ☑️ Jan 29, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -88,10 +88,12 @@ Last Updated     : ☑️ Jan 22, 2026
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
 | 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC) - Part 1](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
 | 🟠 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
-| 🟢 | Jan 19, 2026 | [Web Components Day 01](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.19]_Web_Components_Day_01.md) |
-| 🟢 | Jan 20, 2026 | [Web Components Day 02](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
-| 🟢 | Jan 21, 2026 | [Web Components Day 03](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
-| 🟢 | Jan 22, 2026 | [Web Components Day 04](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
+| 🟢 | Jan 19, 2026 | [Web Components Day 01 - HTML & Servlet](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.19]_Web_Components_Day_01.md) |
+| 🟢 | Jan 20, 2026 | [Web Components Day 02 - Cookie & Session](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.20]_Web_Components_Day_02.md) |
+| 🟢 | Jan 21, 2026 | [Web Components Day 03 - CP & JSP](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
+| 🟢 | Jan 22, 2026 | [Web Components Day 04 - JSP](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
+| 🟢 | Jan 27, 2026 | [Web Components Day 05 - JS & AJAX](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.27]_Web_Components_Day_05.md) |
+| 🔴 | Jan 28, 2026 | [Web Components Day 06 - JPA](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.28]_Web_Components_Day_06.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
