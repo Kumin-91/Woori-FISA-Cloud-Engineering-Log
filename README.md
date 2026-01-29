@@ -15,8 +15,8 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 27, 2026 (Web Components Day 05 - JS & AJAX)
-Upcoming Content : 🔜 Jan 28, 2026 (Web Components Day 06 - JPA)
+Content Coverage : ✅ Jan 28, 2026 (Web Components Day 06 - JPA)
+Upcoming Content : 🔜 
 Last Updated     : ☑️ Jan 29, 2026
 ```
 
@@ -93,7 +93,7 @@ Last Updated     : ☑️ Jan 29, 2026
 | 🟢 | Jan 21, 2026 | [Web Components Day 03 - CP & JSP](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.21]_Web_Components_Day_03.md) |
 | 🟢 | Jan 22, 2026 | [Web Components Day 04 - JSP](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.22]_Web_Components_Day_04.md) |
 | 🟢 | Jan 27, 2026 | [Web Components Day 05 - JS & AJAX](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.27]_Web_Components_Day_05.md) |
-| 🔴 | Jan 28, 2026 | [Web Components Day 06 - JPA](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.28]_Web_Components_Day_06.md) |
+| 🟢 | Jan 28, 2026 | [Web Components Day 06 - JPA](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.28]_Web_Components_Day_06.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
