@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 28, 2026 (Web Components Day 06 - JPA)
-Upcoming Content : 🔜 
-Last Updated     : ☑️ Jan 29, 2026
+Content Coverage : ✅ Jan 29, 2026 (STS + Lombok & JDK17 in Debian 13)
+Upcoming Content : 🔜 Jan 29, 2026 (SpringBoot Basic)
+Last Updated     : ☑️ Jan 30, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -51,8 +51,10 @@ Last Updated     : ☑️ Jan 29, 2026
 | 🟢 | Dec 31, 2025 | [Lombok 설치 및 테스트](./01_Environment_Setup/[2025.12.31]_Lombok_Setup.md) |
 | 🟢 | Jan 02, 2026 | [Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md) |
 | 🟢 | Jan 19, 2026 | [Tomcat 설치 및 구동 환경 설정](./01_Environment_Setup/[2026.01.19]_Tomcat.md) |
+| 🟢 | Jan 29, 2026 | [SpringToolsForEclipse (STS) + Lombok](./01_Environment_Setup/[2026.01.29]_SpringToolsForEclipse_Lombok.md) |
 
 **[Linux Software Index](./01_Environment_Setup/_Linux_Software_Index.md)**
+
 **[macOS Software Index](./01_Environment_Setup/_macOS_Software_Index.md)**
 
 <!-- 🟢 🟠 🔴 -->
@@ -67,6 +69,7 @@ Last Updated     : ☑️ Jan 29, 2026
 | :---: | :--- | :--- |
 | 🟢 | Dec 31, 2025 | [Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md) |
 | 🟢 | Jan 13, 2026 | [최신 Oracle DB 문법 비교](./02_Troubleshooting/[2026.01.13]_Newer_Oracle.md) |
+| 🟢 | Jan 29, 2026 | [Debian 13 Trixie에 JDK 17 설치](./02_Troubleshooting/[2026.01.29]_JDK17_In_Debian_13.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
@@ -101,6 +104,14 @@ Last Updated     : ☑️ Jan 29, 2026
 | 🟢 | Jan 22, 2026 | [Web Components Day 04 - JSP](./03_Lectures_Summary/01_Web_Service/Web/[2026.01.22]_Web_Components_Day_04.md) |
 | 🟢 | Jan 27, 2026 | [Web Components Day 05 - JS & AJAX](./03_Lectures_Summary/01_Web_Service/Web/[2026.01.27]_Web_Components_Day_05.md) |
 | 🟢 | Jan 28, 2026 | [Web Components Day 06 - JPA](./03_Lectures_Summary/01_Web_Service/Web/[2026.01.28]_Web_Components_Day_06.md) |
+
+<!-- 🟢 🟠 🔴 -->
+
+### [Web Service - SpringBoot](./03_Lectures_Summary/01_Web_Service/SpringBoot/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🔴 | Jan 29, 2026 | [SpringBoot Basic](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.01.29]_SpringBoot_Basic.md) |
 
 <!-- 🟢 🟠 🔴 -->
 

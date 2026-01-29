@@ -2,7 +2,7 @@
 
 ## Runtime Environment
 
-**[A. JRE (Java Runtime Environment)](/03_Lectures_Summary/02_Infra_System/Linux/[2026.01.02]_I_JRE.md#21-jre-설치)**
+**[A. JRE (Java Runtime Environment)](/03_Lectures_Summary/02_Infra_System/Linux/[2026.01.02]_I_JRE.md#21-jre-설치) → [For Debian 13 Trixie](/02_Troubleshooting/[2026.01.29]_JDK17_In_Debian_13.md)**
 
 ## Database
 
