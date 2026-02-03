@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Jan 30, 2026 (SpringBoot DI)
-Upcoming Content : 🔜 
-Last Updated     : ☑️ Jan 31, 2026
+Content Coverage : ✅ Feb 02, 2026 (SpringBoot PageMove, Session and Cookie)
+Upcoming Content : 🔜 Feb 03, 2026 (SpringBoot Review)
+Last Updated     : ☑️ Feb 03, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -113,7 +113,9 @@ Last Updated     : ☑️ Jan 31, 2026
 |  | Date | Title | 
 | :---: | :--- | :--- |
 | 🟢 | Jan 29, 2026 | [SpringBoot Basic](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.01.29]_I_SpringBoot_Basic.md) |
-| 🟠 | Jan 30, 2026 | [SpringBoot DI](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.01.30]_II_SpringBoot_DI.md) |
+| 🟢 | Jan 30, 2026 | [SpringBoot DI](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.01.30]_II_SpringBoot_DI.md) |
+| 🟢 | Feb 02, 2026 | [SpringBoot PageMove, Session and Cookie](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.02.02]_III_SpringBoot_PageMove_Session_Cookie.md) |
+| 🔴 | Feb 03, 2026 | [SpringBoot Review](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.02.03]_IV_SpringBoot_Review.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
