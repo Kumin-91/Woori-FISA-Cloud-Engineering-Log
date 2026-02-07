@@ -94,6 +94,22 @@ Last Updated     : ☑️ Feb 07, 2026
 
 <!-- 🟢 🟠 🔴 -->
 
+### [Web Service - SQL](./03_Lectures_Summary/01_Web_Service/SQL/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🟢 | Jan 08, 2026 | [MySQL and Oracle DB Setup](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_I_MySQL_Oracle_Setup.md) |
+| 🟢 | Jan 08, 2026 | [SELECT Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_II_SELECT.md) |
+| 🟢 | Jan 09, 2026 | [WHERE Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_III_WHERE.md) |
+| 🟢 | Jan 09, 2026 | [DML Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_IV_DML.md) |
+| 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
+| 🟢 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
+| 🟢 | Jan 13, 2026 | [SELECT Group Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VII_SELECT_Group_Function.md) |
+| 🟢 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
+| 🟢 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
+
+<!-- 🟢 🟠 🔴 -->
+
 ### [Web Service - Web](./03_Lectures_Summary/01_Web_Service/Web/)  
 
 |  | Date | Title | 
@@ -116,22 +132,6 @@ Last Updated     : ☑️ Feb 07, 2026
 | 🟢 | Jan 30, 2026 | [SpringBoot DI](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.01.30]_II_SpringBoot_DI.md) |
 | 🟢 | Feb 02, 2026 | [SpringBoot PageMove, Session and Cookie](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.02.02]_III_SpringBoot_PageMove_Session_Cookie.md) |
 | 🔴 | Feb 03, 2026 | [SpringBoot Review](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.02.03]_IV_SpringBoot_Review.md) |
-
-<!-- 🟢 🟠 🔴 -->
-
-### [Web Service - SQL](./03_Lectures_Summary/01_Web_Service/SQL/)  
-
-|  | Date | Title | 
-| :---: | :--- | :--- |
-| 🟢 | Jan 08, 2026 | [MySQL and Oracle DB Setup](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_I_MySQL_Oracle_Setup.md) |
-| 🟢 | Jan 08, 2026 | [SELECT Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.08]_II_SELECT.md) |
-| 🟢 | Jan 09, 2026 | [WHERE Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_III_WHERE.md) |
-| 🟢 | Jan 09, 2026 | [DML Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_IV_DML.md) |
-| 🟢 | Jan 09, 2026 | [DBeaver Import](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.09]_V_DBeaver_Import.md) | 
-| 🟢 | Jan 12, 2026 | [SELECT Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.12]_VI_SELECT_Function.md) | 
-| 🟢 | Jan 13, 2026 | [SELECT Group Function](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VII_SELECT_Group_Function.md) |
-| 🟢 | Jan 13, 2026 | [Join Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_VIII_JOIN.md) |
-| 🟢 | Jan 13, 2026 | [Integrity Practice](./03_Lectures_Summary/01_Web_Service/SQL/[2026.01.13]_IX_Integrity.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
