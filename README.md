@@ -25,7 +25,7 @@ Last Updated     : ☑️ Feb 07, 2026
 * [X] [Dec 31, 2025 - Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
 * [X] [Jan 02, 2026 - Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
 * [X] [Jan 12, 2026 - JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
-* [ ] [Jan 14, 2026 - ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
+* [X] [Jan 14, 2026 - ElasticStack 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -139,7 +139,7 @@ Last Updated     : ☑️ Feb 07, 2026
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🟠 | Jan 14, 2026 | [ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md) |
+| 🟢 | Jan 14, 2026 | [ElasticStack 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ElasticStack.md) |
 | 🟢 | Jan 14, 2026 | [Kibana를 활용한 Elasticsearch 데이터 적재 및 시각화](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_II_Kibana_ES_Viz.md) |
 | 🟢 | Jan 16, 2026 | [Filebeat와 Logstash를 활용한 데이터 자동 포맷팅 및 적재](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.16]_III_Filebeat_Logstash_Pipeline.md) |
 
@@ -176,5 +176,7 @@ Last Updated     : ☑️ Feb 07, 2026
 | 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
 | 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
 | 🟢 | Jan 23, 2026 | [n8n 팀 과제 - 학습 큐레이터](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) |
+| 🟢 | Feb 05, 2026 | 기술세미나 - VPN: [OpenVPN & WireGuard 성능 측정](https://github.com/Kumin-91/vpn-perf-bench) & [Tailscale 시연 환경](https://github.com/Kumin-91/tailscale-unified-playbook) |
+
 
 <!-- 🟢 🟠 🔴 -->
