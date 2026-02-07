@@ -17,14 +17,14 @@
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
 Content Coverage : ✅ Feb 02, 2026 (SpringBoot PageMove, Session and Cookie)
 Upcoming Content : 🔜 Feb 03, 2026 (SpringBoot Review)
-Last Updated     : ☑️ Feb 03, 2026
+Last Updated     : ☑️ Feb 07, 2026
 ```
 
 ### 🔥 Next Milestone
 
 * [X] [Dec 31, 2025 - Plugin JDK 버전 충돌](./02_Troubleshooting/[2025.12.31]_Plugin_JDK_Version_Conflict.md)
 * [X] [Jan 02, 2026 - Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
-* [ ] [Jan 12, 2026 - JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
+* [X] [Jan 12, 2026 - JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
 * [ ] [Jan 14, 2026 - ELK 기초 개념 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
@@ -90,7 +90,7 @@ Last Updated     : ☑️ Feb 03, 2026
 | 🟢 | Jan 06, 2026 | [Inheritance, Generic, Wrapper and Interface](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.06]_V_Inheritance_Generic_Wrapper_and_Interface.md) |
 | 🟢 | Jan 07, 2026 | [Stream API](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.07]_VI_Stream_API.md) |
 | 🟢 | Jan 09, 2026 | [Java DataBase Connectivity (JDBC) - Part 1](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.09]_VII_JDBC.md) |
-| 🟠 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
+| 🟢 | Jan 12, 2026 | [Java DataBase Connectivity (JDBC) - Part 2](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
