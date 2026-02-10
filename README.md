@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Feb 02, 2026 (SpringBoot PageMove, Session and Cookie)
-Upcoming Content : 🔜 Feb 03, 2026 (SpringBoot Review)
-Last Updated     : ☑️ Feb 07, 2026
+Content Coverage : ✅ Feb 10, 2026 (Network Day 01)
+Upcoming Content : 🔜 
+Last Updated     : ☑️ Feb 10, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -26,6 +26,7 @@ Last Updated     : ☑️ Feb 07, 2026
 * [X] [Jan 02, 2026 - Ubuntu 가상머신 설치](./01_Environment_Setup/[2026.01.02]_Ubuntu_VM.md)
 * [X] [Jan 12, 2026 - JDBC Part II](./03_Lectures_Summary/01_Web_Service/JAVA/[2026.01.12]_VIII_JDBC_2.md)
 * [X] [Jan 14, 2026 - ElasticStack 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ELK.md)
+* [ ] [Feb 03, 2026 - SpringBoot Review](./03_Lectures_Summary/01_Web_Service/SpringBoot/[2026.02.03]_IV_SpringBoot_Review.md)
 
 # 📋 학습 기록 / Learning Archive / 学習記録
 
@@ -110,6 +111,16 @@ Last Updated     : ☑️ Feb 07, 2026
 
 <!-- 🟢 🟠 🔴 -->
 
+### [Web Service - ELK](./03_Lectures_Summary/01_Web_Service/ELK/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🟢 | Jan 14, 2026 | [ElasticStack 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ElasticStack.md) |
+| 🟢 | Jan 14, 2026 | [Kibana를 활용한 Elasticsearch 데이터 적재 및 시각화](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_II_Kibana_ES_Viz.md) |
+| 🟢 | Jan 16, 2026 | [Filebeat와 Logstash를 활용한 데이터 자동 포맷팅 및 적재](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.16]_III_Filebeat_Logstash_Pipeline.md) |
+
+<!-- 🟢 🟠 🔴 -->
+
 ### [Web Service - Web](./03_Lectures_Summary/01_Web_Service/Web/)  
 
 |  | Date | Title | 
@@ -135,15 +146,7 @@ Last Updated     : ☑️ Feb 07, 2026
 
 <!-- 🟢 🟠 🔴 -->
 
-### [Web Service - ELK](./03_Lectures_Summary/01_Web_Service/ELK/)  
-
-|  | Date | Title | 
-| :---: | :--- | :--- |
-| 🟢 | Jan 14, 2026 | [ElasticStack 정리](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_I_About_ElasticStack.md) |
-| 🟢 | Jan 14, 2026 | [Kibana를 활용한 Elasticsearch 데이터 적재 및 시각화](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.14]_II_Kibana_ES_Viz.md) |
-| 🟢 | Jan 16, 2026 | [Filebeat와 Logstash를 활용한 데이터 자동 포맷팅 및 적재](./03_Lectures_Summary/01_Web_Service/ELK/[2026.01.16]_III_Filebeat_Logstash_Pipeline.md) |
-
-<!-- 🟢 🟠 🔴 -->
+---
 
 ### [Infra System - Linux](./03_Lectures_Summary/02_Infra_System/Linux/)  
 
@@ -154,6 +157,17 @@ Last Updated     : ☑️ Feb 07, 2026
 | 🟢 | Jan 05, 2026 | [Visual Studio Code로 Linux 서버 연결](./03_Lectures_Summary/02_Infra_System/Linux/[2026.01.05]_III_VSCode.md) |
 
 <!-- 🟢 🟠 🔴 -->
+
+### [Infra System - Network](./03_Lectures_Summary/02_Infra_System/Network/)  
+
+|  | Date | Title | 
+| :---: | :--- | :--- |
+| 🟢 | Feb 10, 2026 | [Network Day 01](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.10]_I_Network_Day_01.md) |
+| 🟠 | Feb 11, 2026 | [Network Day 02](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.11]_II_Network_Day_02.md) |
+
+<!-- 🟢 🟠 🔴 -->
+
+---
 
 ### [Cloud Engineering - Docker](./03_Lectures_Summary/03_Cloud_Engineering/)  
 
