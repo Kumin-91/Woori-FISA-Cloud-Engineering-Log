@@ -158,14 +158,14 @@ Last Updated     : ☑️ Feb 12, 2026
 
 <!-- 🟢 🟠 🔴 -->
 
-### [Infra System - Network](./03_Lectures_Summary/02_Infra_System/Network/)  
+### [Infra System - Network Infra](./03_Lectures_Summary/02_Infra_System/Network/)  
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🟢 | Feb 10, 2026 | [Network Day 01](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.10]_I_Network_Day_01.md) |
-| 🟢 | Feb 11, 2026 | [Network Day 02](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.11]_II_Network_Day_02.md) |
-| 🔴 | Feb 12, 2026 | [Network Day 03](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.12]_III_Network_Day_03.md) |
-| 🔴 | Feb 13, 2026 | [Network Day 04](./03_Lectures_Summary/02_Infra_System/Network/[2026.02.13]_IV_Network_Day_04.md) |
+| 🟢 | Feb 10, 2026 | [Network Day 01](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.10]_I_Network_Day_01.md) |
+| 🟢 | Feb 11, 2026 | [Network Day 02](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.11]_II_Network_Day_02.md) |
+| 🔴 | Feb 12, 2026 | [Network Day 03](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.12]_III_Network_Day_03.md) |
+| 🔴 | Feb 13, 2026 | [Network Day 04](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.13]_IV_Network_Day_04.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
