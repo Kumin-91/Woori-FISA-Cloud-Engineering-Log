@@ -195,7 +195,7 @@ Last Updated     : ☑️ Feb 13, 2026
 | 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
 | 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
 | 🟢 | Jan 23, 2026 | [n8n 팀 과제 - 학습 큐레이터](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) |
-| 🟢 | Feb 05, 2026 | 기술세미나 - VPN: [OpenVPN & WireGuard 성능 측정](https://github.com/Kumin-91/vpn-perf-bench) & [Tailscale 시연 환경](https://github.com/Kumin-91/tailscale-unified-playbook) |
+| 🟢 | Feb 05, 2026 | [기술세미나 - VPN](https://github.com/Kumin-91/seminar-vpn) |
 
 
 <!-- 🟢 🟠 🔴 -->
