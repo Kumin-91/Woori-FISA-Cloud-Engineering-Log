@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Feb 19, 2026 (Network Day 05)
+Content Coverage : ✅ Feb 20, 2026 (Network Day 06)
 Upcoming Content : 🔜 
-Last Updated     : ☑️ Feb 19, 2026
+Last Updated     : ☑️ Feb 20, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -167,7 +167,7 @@ Last Updated     : ☑️ Feb 19, 2026
 | 🟢 | Feb 12, 2026 | [Network Day 03](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.12]_III_Network_Day_03.md) |
 | 🟢 | Feb 13, 2026 | [Network Day 04](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.13]_IV_Network_Day_04.md) |
 | 🟢 | Feb 19, 2026 | [Network Day 05](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.19]_V_Network_Day_05.md) |
-| 🔴 | Feb 20, 2026 | [Network Day 06](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.20]_VI_Network_Day_06.md) |
+| 🟢 | Feb 20, 2026 | [Network Day 06](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.20]_VI_Network_Day_06.md) |
 | 🔴 | Feb 23, 2026 | [Network Day 07](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.23]_VII_Network_Day_07.md) |
 
 <!-- 🟢 🟠 🔴 -->
