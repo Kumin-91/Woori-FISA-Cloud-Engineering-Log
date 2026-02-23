@@ -162,13 +162,13 @@ Last Updated     : ☑️ Feb 23, 2026
 
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🟢 | Feb 10, 2026 | [Network Day 01](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.10]_I_Network_Day_01.md) |
-| 🟢 | Feb 11, 2026 | [Network Day 02](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.11]_II_Network_Day_02.md) |
-| 🟢 | Feb 12, 2026 | [Network Day 03](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.12]_III_Network_Day_03.md) |
-| 🟢 | Feb 13, 2026 | [Network Day 04](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.13]_IV_Network_Day_04.md) |
-| 🟢 | Feb 19, 2026 | [Network Day 05](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.19]_V_Network_Day_05.md) |
-| 🟢 | Feb 20, 2026 | [Network Day 06](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.20]_VI_Network_Day_06.md) |
-| 🟢 | Feb 23, 2026 | [Network Day 07](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.23]_VII_Network_Day_07.md) |
+| 🟢 | Feb 10, 2026 | [Network Day 01 - Network Basics](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.10]_I_Network_Day_01.md) |
+| 🟢 | Feb 11, 2026 | [Network Day 02 - TCP, UDP, IP and Subnetting](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.11]_II_Network_Day_02.md) |
+| 🟢 | Feb 12, 2026 | [Network Day 03 - MAC Address, ARP, DHCP and Ethernet](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.12]_III_Network_Day_03.md) |
+| 🟢 | Feb 13, 2026 | [Network Day 04 - IP, Router, NTP and Cisco IOS](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.13]_IV_Network_Day_04.md) |
+| 🟢 | Feb 19, 2026 | [Network Day 05 - Subnetting, Network and L2 Switch](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.19]_V_Network_Day_05.md) |
+| 🟢 | Feb 20, 2026 | [Network Day 06 - VLAN, Trunking, VTP and STP](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.20]_VI_Network_Day_06.md) |
+| 🟢 | Feb 23, 2026 | [Network Day 07 - STP, PortFast, Link Aggregation and MLS](./03_Lectures_Summary/02_Infra_System/Network_Infra/[2026.02.23]_VII_Network_Day_07.md) |
 
 <!-- 🟢 🟠 🔴 -->
 
