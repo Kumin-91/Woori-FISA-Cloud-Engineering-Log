@@ -15,9 +15,11 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Feb 25, 2026 (Server Virtualization Day 02)
-Upcoming Content : 🔜 Server Virtualization Day 03 - 04
-Last Updated     : ☑️ Feb 27, 2026
+Content Coverage : ✅ Feb 27, 2026 (Server Virtualization Day 04)
+Upcoming Content : 🔜
+    Server Virtualization Day 03 - ## 3. DNS Server on Windows Server 2022 (in Workstation ESXi)
+    Server Virtualization Day 04 - ## 5. Lab: NFS Server & NFS Client
+Last Updated     : ☑️ Feb 28, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -177,8 +179,8 @@ Last Updated     : ☑️ Feb 27, 2026
 | :---: | :--- | :--- |
 | 🟢 | Feb 24, 2026 | [Server Virtualization Day 01](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.24]_I_Server_Virtualization_Day_01.md) |
 | 🟢 | Feb 25, 2026 | [Server Virtualization Day 02](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.25]_II_Server_Virtualization_Day_02.md) |
-| 🟠 | Feb 26, 2026 | [Server Virtualization Day 03](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.26]_III_Server_Virtualization_Day_03.md) |
-| 🟠 | Feb 27, 2026 | [Server Virtualization Day 04](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.27]_IV_Server_Virtualization_Day_04.md) |
+| 🟢 | Feb 26, 2026 | [Server Virtualization Day 03](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.26]_III_Server_Virtualization_Day_03.md) |
+| 🟢 | Feb 27, 2026 | [Server Virtualization Day 04](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.27]_IV_Server_Virtualization_Day_04.md) |
 <!--
 | 🔴 | Mar 03, 2026 | [Server Virtualization Day 05](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.03]_V_Server_Virtualization_Day_05.md) |
 | 🔴 | Mar 04, 2026 | [Server Virtualization Day 06](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.04]_VI_Server_Virtualization_Day_06.md) |
