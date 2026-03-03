@@ -17,8 +17,7 @@
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
 Content Coverage : ✅ Feb 27, 2026 (Server Virtualization Day 04)
 Upcoming Content : 🔜
-    Server Virtualization Day 03 - ## 3. DNS Server on Windows Server 2022 (in Workstation ESXi)
-Last Updated     : ☑️ Feb 28, 2026
+Last Updated     : ☑️ Mar 03, 2026
 ```
 
 ### 🔥 Next Milestone
