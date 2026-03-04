@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Mar 03, 2026 (Server Virtualization Day 05)
+Content Coverage : ✅ Mar 04, 2026 (Server Virtualization Day 06)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Mar 03, 2026
+Last Updated     : ☑️ Mar 04, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -180,10 +180,8 @@ Last Updated     : ☑️ Mar 03, 2026
 | 🟢 | Feb 26, 2026 | [Server Virtualization Day 03](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.26]_III_Server_Virtualization_Day_03.md) |
 | 🟢 | Feb 27, 2026 | [Server Virtualization Day 04](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.02.27]_IV_Server_Virtualization_Day_04.md) |
 | 🟢 | Mar 03, 2026 | [Server Virtualization Day 05](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.03]_V_Server_Virtualization_Day_05.md) |
-<!--
-| 🔴 | Mar 04, 2026 | [Server Virtualization Day 06](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.04]_VI_Server_Virtualization_Day_06.md) |
+| 🟢 | Mar 04, 2026 | [Server Virtualization Day 06](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.04]_VI_Server_Virtualization_Day_06.md) |
 | 🔴 | Mar 05, 2026 | [Server Virtualization Day 07](./03_Lectures_Summary/02_Infra_System/Server_Virtualization/[2026.03.05]_VII_Server_Virtualization_Day_07.md) |
--->
 
 <!-- 🟢 🟠 🔴 -->
 
