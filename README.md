@@ -17,7 +17,7 @@
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
 Content Coverage : ✅ Mar 05, 2026 (Server Virtualization Day 07)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Mar 05, 2026
+Last Updated     : ☑️ Mar 16, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -194,6 +194,23 @@ Last Updated     : ☑️ Mar 05, 2026
 | 🟢 | Jan 02, 2026 | [Docker Basics](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.02]_I_Docker_Basics.md) | 
 | 🟢 | Jan 08, 2026 | [Garbage Collection](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.08]_II_Garbage_Collection.md) |
 
+### [Cloud Engineering - DevOps](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/)
+| :---: | :--- | :--- |
+| 🔴 | Mar 17, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 18, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 19, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 20, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 24, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 25, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 26, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 27, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 30, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Mar 31, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 01, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 02, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 03, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 07, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+
 <!-- 🟢 🟠 🔴 -->
 
 ## 4. Projects
@@ -209,6 +226,6 @@ Last Updated     : ☑️ Mar 05, 2026
 | 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
 | 🟢 | Jan 23, 2026 | [n8n 팀 과제 - 학습 큐레이터](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) |
 | 🟢 | Feb 05, 2026 | [기술세미나 - VPN](https://github.com/Kumin-91/seminar-vpn) |
-
+| 🟢 | Mar 06, 2026 | [VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab) |
 
 <!-- 🟢 🟠 🔴 -->
