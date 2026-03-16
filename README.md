@@ -194,8 +194,12 @@ Last Updated     : ☑️ Mar 16, 2026
 | 🟢 | Jan 02, 2026 | [Docker Basics](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.02]_I_Docker_Basics.md) | 
 | 🟢 | Jan 08, 2026 | [Garbage Collection](./03_Lectures_Summary/03_Cloud_Engineering/Docker/[2026.01.08]_II_Garbage_Collection.md) |
 
+<!-- 🟢 🟠 🔴 -->
+
 ### [Cloud Engineering - DevOps](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/)
+|  | Date | Title | 
 | :---: | :--- | :--- |
+<!--
 | 🔴 | Mar 17, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 18, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 19, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
@@ -210,6 +214,7 @@ Last Updated     : ☑️ Mar 16, 2026
 | 🔴 | Apr 02, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Apr 03, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Apr 07, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+-->
 
 <!-- 🟢 🟠 🔴 -->
 
