@@ -217,20 +217,3 @@ Last Updated     : ☑️ Mar 17, 2026
 -->
 
 <!-- 🟢 🟠 🔴 -->
-
-## 4. Projects
-
-**주요 프로젝트 및 단계별 학습 미션 아카이브**  
-**EN: Archive of Major Projects and Step-by-Step Learning Missions**  
-**JP: 主要プロジェクトおよび段階別学習ミッションのアーカイブ**  
-
-|  | Date | Title | 
-| :---: | :--- | :--- |
-| 🟢 | Jan 05, 2026 | [MVC 패턴을 이용한 JAVA 프로그램](https://github.com/Kumin-91/MVC_log4j_mini_project) |
-| 🟢 | Jan 07, 2026 | [n8n 팀 과제 - 중간 연산 과다 사용 예제](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations) |
-| 🟢 | Jan 16, 2026 | [ES + Kibana를 이용한 카드 데이터 분석 실습](https://github.com/mo-seo-li/wooricard_analysis) |
-| 🟢 | Jan 23, 2026 | [n8n 팀 과제 - 학습 큐레이터](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) |
-| 🟢 | Feb 05, 2026 | [기술세미나 - VPN](https://github.com/Kumin-91/seminar-vpn) |
-| 🟢 | Mar 06, 2026 | [VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab) |
-
-<!-- 🟢 🟠 🔴 -->
