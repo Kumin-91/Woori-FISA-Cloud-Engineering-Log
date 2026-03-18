@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Mar 17, 2026 (Linux System Management)
+Content Coverage : ✅ Mar 18, 2026 (Linux System Management Day 02)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Mar 17, 2026
+Last Updated     : ☑️ Mar 18, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -199,9 +199,9 @@ Last Updated     : ☑️ Mar 17, 2026
 ### [Cloud Engineering - DevOps](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/)
 |  | Date | Title | 
 | :---: | :--- | :--- |
-| 🟢 | Mar 17, 2026 | [Linux System Management](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.17]_I_Linux_System_Management.md) | 
+| 🟢 | Mar 17, 2026 | [Linux System Management Day 01](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.17]_I_Linux_System_Management_Day_01.md) | 
+| 🟢 | Mar 18, 2026 | [Linux System Management Day 02](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.18]_II_Linux_System_Management_Day_02.md) | 
 <!--
-| 🔴 | Mar 18, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 19, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 20, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 24, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
