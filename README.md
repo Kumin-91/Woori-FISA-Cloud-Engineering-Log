@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Mar 24, 2026 (Linux VM Configuration and SSH Setup)
+Content Coverage : ✅ Mar 25, 2026 (Docker)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Mar 24, 2026
+Last Updated     : ☑️ Mar 25, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -202,9 +202,9 @@ Last Updated     : ☑️ Mar 24, 2026
 | 🟢 | Mar 17, 2026 | [Linux System Management Day 01](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.17]_I_Linux_System_Management_Day_01.md) | 
 | 🟢 | Mar 18, 2026 | [Linux System Management Day 02](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.18]_II_Linux_System_Management_Day_02.md) | 
 | 🟢 | Mar 20, 2026 | [DevOps & Jenkins](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.20]_III_DevOps_Jenkins.md) | 
-| 🟢 | Mar 24, 2026 | [Linux VM Configuration and SSH Setup](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.24]_III_Linux_VM_Configuration_and_SSH_Setup.md) | 
+| 🟢 | Mar 24, 2026 | [Linux VM Configuration and SSH Setup](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.24]_IV_Linux_VM_Configuration_and_SSH_Setup.md.md) | 
+| 🟢 | Mar 25, 2026 | [Docker](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.25]_V_Docker.md) | 
 <!--
-| 🔴 | Mar 25, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 26, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 27, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 | 🔴 | Mar 30, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
