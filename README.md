@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Mar 30, 2026 (Docker-Compose & Kubernetes Day 01)
+Content Coverage : ✅ Mar 31, 2026 (Kubernetes Day 02)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Mar 30, 2026
+Last Updated     : ☑️ Mar 31, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -206,12 +206,12 @@ Last Updated     : ☑️ Mar 30, 2026
 | 🟢 | Mar 25, 2026 | [Docker Day 01](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.25]_V_Docker_Day_01.md) | 
 | 🟢 | Mar 27, 2026 | [Docker Day 02](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.27]_VI_Docker_Day_02.md) | 
 | 🟢 | Mar 30, 2026 | [Docker-Compose & Kubernetes Day 01](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.30]_VII_Docker_Compose_Kubernetes_Day_01.md) | 
+| 🟢 | Mar 31, 2026 | [Kubernetes Day 02](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.31]_VIII_Kubernetes_Day_02.md) | 
 <!--
-| 🔴 | Mar 31, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
-| 🔴 | Apr 01, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
-| 🔴 | Apr 02, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
-| 🔴 | Apr 03, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
-| 🔴 | Apr 07, 2026 | [DevOps Basics](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 01, 2026 | [](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 02, 2026 | [](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 03, 2026 | [](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
+| 🔴 | Apr 07, 2026 | [](./03_Lectures_Summary/03_Cloud_Engineering/DevOps) | 
 -->
 
 <!-- 🟢 🟠 🔴 -->
