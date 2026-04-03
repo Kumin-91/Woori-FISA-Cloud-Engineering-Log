@@ -15,9 +15,9 @@
 
 ```Plain text
 Course Status    : 🟢 In Progress (Since Dec 30, 2025)
-Content Coverage : ✅ Apr 02, 2026 (Kubernetes Day 04)
+Content Coverage : ✅ Apr 03, 2026 (Kubernetes Day 05)
 Upcoming Content : 🔜
-Last Updated     : ☑️ Apr 02, 2026
+Last Updated     : ☑️ Apr 03, 2026
 ```
 
 ### 🔥 Next Milestone
@@ -209,8 +209,7 @@ Last Updated     : ☑️ Apr 02, 2026
 | 🟢 | Mar 31, 2026 | [Kubernetes Day 02](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.03.31]_VIII_Kubernetes_Day_02.md) | 
 | 🟢 | Apr 01, 2026 | [Kubernetes Day 03](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.04.01]_IX_Kubernetes_Day_03.md) | 
 | 🟢 | Apr 02, 2026 | [Kubernetes Day 04](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.04.02]_X_Kubernetes_Day_04.md) | 
-| 🔴 | Apr 03, 2026 | [Kubernetes Day 05](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.04.03]_XI_Kubernetes_Day_05.md) | 
+| 🟢 | Apr 03, 2026 | [Kubernetes Day 05](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.04.03]_XI_Kubernetes_Day_05.md) | 
 | 🔴 | Apr 07, 2026 | [Kubernetes Day 06](./03_Lectures_Summary/03_Cloud_Engineering/DevOps/[2026.04.07]_XII_Kubernetes_Day_06.md) | 
--->
 
 <!-- 🟢 🟠 🔴 -->
